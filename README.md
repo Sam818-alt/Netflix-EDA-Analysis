@@ -5,7 +5,7 @@
 🚀 Project Overview
 
 This project performs in-depth Exploratory Data Analysis (EDA) on the Netflix Titles dataset.
-The goal is to understand:
+- The goal is to understand:
 
 1. Netflix’s content distribution
 2. Growth of Movies vs TV Shows
@@ -65,14 +65,14 @@ This notebook applies Python + Visualization to turn raw data into meaningful in
 
 
 ⭐ Key Insights Summary
-i. Netflix has far more movies than TV shows, but TV shows have grown significantly in recent years.
-ii. TV-MA is the most dominant content rating on the platform.
-iii. Most movies fall in the 90–120 minutes duration category.
-iv. Content production increased heavily after 2015.
-v. The United States and India contribute the most titles.
-vi. Actors like Anupam Kher, Takahiro Sakurai and Om Puri appear most frequently.
-vii. Genres related to Drama, Comedy, Action, Thriller dominate across Netflix titles.
-viii. WordClouds reveal keywords like love, family, crime, friendship, mystery appearing frequently.
+- Netflix has far more movies than TV shows, but TV shows have grown significantly in recent years.
+- TV-MA is the most dominant content rating on the platform.
+- Most movies fall in the 90–120 minutes duration category.
+- Content production increased heavily after 2015.
+- The United States and India contribute the most titles.
+- Actors like Anupam Kher, Takahiro Sakurai and Om Puri appear most frequently.
+- Genres related to Drama, Comedy, Action, Thriller dominate across Netflix titles.
+- WordClouds reveal keywords like love, family, crime, friendship, mystery appearing frequently.
 
 📓 Notebook
 
