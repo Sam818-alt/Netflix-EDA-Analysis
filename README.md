@@ -33,34 +33,34 @@ This notebook applies Python + Visualization to turn raw data into meaningful in
 🔍 Analysis & Visualizations
 - Below are key visualizations included in this project 👇
 
-🎞️ 1. Number of Movies vs TV Shows
+🎞️ 1. Number of Movies vs TV Shows: 
     Shows the distribution of content type on Netflix.
 
-🍿 2. Content Ratings Distribution
+🍿 2. Content Ratings Distribution: 
     Visualizing the percentage share of ratings (TV-MA, TV-14, PG-13, etc.)
 
-⏳ 3. Movie Duration Analysis
+⏳ 3. Movie Duration Analysis: 
     Histogram showing common runtime ranges for movies.
 
-📈 4. Release Year — Trend Analysis
+📈 4. Release Year — Trend Analysis: 
     Scatter plot showing how many titles were released each year.
 
-🔄 5. Movies vs TV Shows Over the Years
+🔄 5. Movies vs TV Shows Over the Years: 
     Comparing growth patterns of Movies and Shows across years.
 
-🌍 6. Top 10 Countries Producing Netflix Content
+🌍 6. Top 10 Countries Producing Netflix Content: 
     Country-wise distribution of titles on Netflix.
 
-🎭 7. Most Frequent Actors
+🎭 7. Most Frequent Actors: 
     Actors that appear most often in Netflix titles.
 
-🎬 8. Most Frequent Directors
+🎬 8. Most Frequent Directors: 
     Directors with the highest number of works on Netflix.
 
-📝 9. WordCloud — Movie Descriptions
+📝 9. WordCloud — Movie Descriptions: 
     Highlights the most common words in movie plots.
 
-📝 10. WordCloud — TV Show Descriptions
+📝 10. WordCloud — TV Show Descriptions: 
     Highlights the most common words in TV show descriptions.
 
 
@@ -88,6 +88,6 @@ Full analysis available in:
 
 👨‍💻 Author
 - Sameer Kumar
-- Github: ('github.com/Sam818-alt')
+- Github: ('https://github.com/Sam818-alt')
 
 ⭐ If this project helped you, don’t forget to star the repo!
